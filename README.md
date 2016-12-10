@@ -9,8 +9,8 @@ Collection of code katas completed on codewars.
 ## 1:   Money,Money,Money
 ### URL:    https://www.codewars.com/kata/563f037412e5ada593000114/
 
-## 2:
-### URL:
+## 2:   Summing a numbers digits
+### URL:    https://www.codewars.com/kata/summing-a-numbers-digits
 
 ## 3:
 ### URL:
