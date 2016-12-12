@@ -22,7 +22,11 @@ Collection of code katas completed on codewars.
 ### 2:  Number pyramid
 #### URL:   https://www.codewars.com/kata/5575ff8c4d9c98bc96000042
 
-### 3:
+### 3:  Lambdas as a mechanism for Open/Closed
+#### URL:   https://www.codewars.com/kata/lambdas-as-a-mechanism-for-open-slash-closed/
+
+
+### 4:
 #### URL:
 
 
