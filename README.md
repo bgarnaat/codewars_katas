@@ -14,6 +14,18 @@ Collection of code katas completed on codewars.
 #### URL:
 
 
+## 6 kyu:
+
+### 1:   Sort the odd
+#### URL:    https://www.codewars.com/kata/sort-the-odd
+
+### 2:  Number pyramid
+#### URL:   https://www.codewars.com/kata/5575ff8c4d9c98bc96000042
+
+### 3:
+#### URL:
+
+
 ## 7 kyu:
 
 ### 1:   Money,Money,Money
