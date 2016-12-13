@@ -38,8 +38,8 @@ Collection of code katas completed on codewars.
 ### 2:   Summing a numbers digits
 #### URL:    https://www.codewars.com/kata/summing-a-numbers-digits
 
-### 3:
-#### URL:
+### 3:  Formnat to the 2nd
+#### URL:   https://www.codewars.com/kata/format-to-the-2nd/
 
 ### 4:
 #### URL:
