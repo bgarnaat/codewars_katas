@@ -26,7 +26,11 @@ Collection of code katas completed on codewars.
 #### URL:   https://www.codewars.com/kata/lambdas-as-a-mechanism-for-open-slash-closed/
 
 
-### 4:
+### 4:  Custom array filters
+#### URL:   https://www.codewars.com/kata/custom-array-filters
+
+
+### 5:
 #### URL:
 
 
