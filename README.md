@@ -46,7 +46,7 @@ Collection of code katas completed on codewars.
 #### URL:   https://www.codewars.com/kata/5679aa472b8f57fb8c000047
 
 
-### 5:
+### 6:
 #### URL:
 
 
