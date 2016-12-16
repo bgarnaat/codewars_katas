@@ -2,6 +2,18 @@
 Collection of code katas completed on codewars.
 
 
+## 4 kyu:
+
+### 1:   Base Conversion
+#### URL:    https://www.codewars.com/kata/base-conversion
+
+### 2:
+#### URL:
+
+### 3:
+#### URL:
+
+
 ## 5 kyu:
 
 ### 1:   Rot13
