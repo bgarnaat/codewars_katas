@@ -42,7 +42,11 @@ Collection of code katas completed on codewars.
 #### URL:   https://www.codewars.com/kata/custom-array-filters
 
 
-### 5:
+### 5:  Equal sides of an array (list)
+#### URL:   https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+
+
+### 6:
 #### URL:
 
 
