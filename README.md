@@ -46,7 +46,11 @@ Collection of code katas completed on codewars.
 #### URL:   https://www.codewars.com/kata/5679aa472b8f57fb8c000047
 
 
-### 6:
+### 6:  Help the bookseller!
+#### URL:   https://www.codewars.com/kata/help-the-bookseller
+
+
+### 7:
 #### URL:
 
 
