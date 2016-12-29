@@ -50,7 +50,11 @@ Collection of code katas completed on codewars.
 #### URL:   https://www.codewars.com/kata/help-the-bookseller
 
 
-### 7:
+### 7:  worda10n
+#### URL:   https://www.codewars.com/kata/word-a10n-abbreviation
+
+
+### 8:
 #### URL:
 
 
