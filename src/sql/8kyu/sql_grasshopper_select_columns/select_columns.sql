@@ -14,4 +14,4 @@ Your solution should contain only SQL.
 */
 
 
-SELECT custid, custname, custstate FROM customers
+SELECT custid, custname, custstate FROM customers;
