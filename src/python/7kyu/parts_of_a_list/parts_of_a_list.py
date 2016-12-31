@@ -35,4 +35,4 @@ You can see other examples for each language in "Your test cases"
 
 
 def partlist(lst):
-    return [(' '.join(lst[:i+1]), ' '.join(lst[i+1:])) for i in range(len(lst) - 1)]
+    return [(' '.join(lst[:i]), ' '.join(lst[i:])) for i in range(1, len(lst))]
