@@ -1,88 +1,29 @@
-# codewars_katas
+# Codewars Katas
 Collection of code katas completed on codewars.
 
+## Python
 
-## 4 kyu:
-
-### 1:   Base Conversion
-#### URL:    https://www.codewars.com/kata/base-conversion
-
-### 2:
-#### URL:
-
-### 3:
-#### URL:
-
-
-## 5 kyu:
-
-### 1:   Rot13
-#### URL:    https://www.codewars.com/kata/530e15517bc88ac656000716
-
-### 2:
-#### URL:
-
-### 3:
-#### URL:
+Level/Kyu | Name | URL
+:--------:|------|----
+4 | Base Conversion | https://www.codewars.com/kata/base-conversion
+5 | Rot13 | https://www.codewars.com/kata/530e15517bc88ac656000716
+6 | Sort the odd | https://www.codewars.com/kata/sort-the-odd
+6 | Number pyramid | https://www.codewars.com/kata/5575ff8c4d9c98bc96000042
+6 | Lambdas as a mechanism for Open/Closed | https://www.codewars.com/kata/lambdas-as-a-mechanism-for-open-slash-closed/
+6 | Custom array filters | https://www.codewars.com/kata/custom-array-filters
+6 | Equal sides of an array (list) | https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+6 | Help the bookseller! | https://www.codewars.com/kata/help-the-bookseller
+6 | worda10n | https://www.codewars.com/kata/word-a10n-abbreviation
+7 | Money,Money,Money | https://www.codewars.com/kata/563f037412e5ada593000114/
+7 | Summing a numbers digits | https://www.codewars.com/kata/summing-a-numbers-digits
+7 | Formnat to the 2nd | https://www.codewars.com/kata/format-to-the-2nd/
+8 | Convert a string to an array (list) | https://www.codewars.com/kata/convert-a-string-to-an-array/
+8 | last | https://www.codewars.com/kata/last/
+8 | Exclamation marks series #1: Remove a exclamation mark from the end of string | http://www.codewars.com/kata/exclamation-marks-series-number-1-remove-a-exclamation-mark-from-the-end-of-string
 
 
-## 6 kyu:
+## SQL
 
-### 1:   Sort the odd
-#### URL:    https://www.codewars.com/kata/sort-the-odd
-
-### 2:  Number pyramid
-#### URL:   https://www.codewars.com/kata/5575ff8c4d9c98bc96000042
-
-### 3:  Lambdas as a mechanism for Open/Closed
-#### URL:   https://www.codewars.com/kata/lambdas-as-a-mechanism-for-open-slash-closed/
-
-
-### 4:  Custom array filters
-#### URL:   https://www.codewars.com/kata/custom-array-filters
-
-
-### 5:  Equal sides of an array (list)
-#### URL:   https://www.codewars.com/kata/5679aa472b8f57fb8c000047
-
-
-### 6:  Help the bookseller!
-#### URL:   https://www.codewars.com/kata/help-the-bookseller
-
-
-### 7:  worda10n
-#### URL:   https://www.codewars.com/kata/word-a10n-abbreviation
-
-
-### 8:
-#### URL:
-
-
-## 7 kyu:
-
-### 1:   Money,Money,Money
-#### URL:    https://www.codewars.com/kata/563f037412e5ada593000114/
-
-### 2:   Summing a numbers digits
-#### URL:    https://www.codewars.com/kata/summing-a-numbers-digits
-
-### 3:  Formnat to the 2nd
-#### URL:   https://www.codewars.com/kata/format-to-the-2nd/
-
-### 4:
-#### URL:
-
-
-## 8 kyu:
-
-### 1:   Convert a string to an array (list)
-#### URL:    https://www.codewars.com/kata/convert-a-string-to-an-array/
-
-### 2:   last
-#### URL:    https://www.codewars.com/kata/last/
-
-### 3:
-#### URL:
-
-### 4:
-#### URL:
+Level/Kyu | Name | URL
+:--------:|------|----
+8 | SQL Grasshopper: Select Columns | http://www.codewars.com/kata/sql-grasshopper-select-columns
