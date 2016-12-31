@@ -17,6 +17,7 @@ Level/Kyu | Name | URL
 7 | Money,Money,Money | https://www.codewars.com/kata/563f037412e5ada593000114/
 7 | Summing a numbers digits | https://www.codewars.com/kata/summing-a-numbers-digits
 7 | Formnat to the 2nd | https://www.codewars.com/kata/format-to-the-2nd/
+7 | Parts of a list | http://www.codewars.com/kata/parts-of-a-list
 8 | Convert a string to an array (list) | https://www.codewars.com/kata/convert-a-string-to-an-array/
 8 | last | https://www.codewars.com/kata/last/
 8 | Exclamation marks series #1: Remove a exclamation mark from the end of string | http://www.codewars.com/kata/exclamation-marks-series-number-1-remove-a-exclamation-mark-from-the-end-of-string
