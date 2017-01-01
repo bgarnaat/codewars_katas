@@ -15,6 +15,7 @@ Level/Kyu | Name | URL
 6 | Help the bookseller! | https://www.codewars.com/kata/help-the-bookseller
 6 | worda10n | https://www.codewars.com/kata/word-a10n-abbreviation
 6 | File Path Operations | http://www.codewars.com/kata/file-path-operations
+6 | Binary to Text (ASCII) Conversion | https://www.codewars.com/kata/binary-to-text-ascii-conversion
 7 | Money,Money,Money | https://www.codewars.com/kata/563f037412e5ada593000114/
 7 | Summing a numbers digits | https://www.codewars.com/kata/summing-a-numbers-digits
 7 | Formnat to the 2nd | https://www.codewars.com/kata/format-to-the-2nd/
