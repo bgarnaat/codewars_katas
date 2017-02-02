@@ -33,6 +33,18 @@ TEST_CASES = [
 
 
 @pytest.mark.parametrize('test_input, test_output', TEST_CASES)
-def test_longest_consec(test_input, test_output):
-    from consecutive_strings import longest_consec
-    assert longest_consec(*test_input) == test_output
+def test_longest_consec1(test_input, test_output):
+    from consecutive_strings import longest_consec1
+    assert longest_consec1(*test_input) == test_output
+
+
+@pytest.mark.parametrize('test_input, test_output', TEST_CASES)
+def test_longest_consec2(test_input, test_output):
+    from consecutive_strings import longest_consec2
+    assert longest_consec2(*test_input) == test_output
+
+
+@pytest.mark.parametrize('test_input, test_output', TEST_CASES)
+def test_longest_consec3(test_input, test_output):
+    from consecutive_strings import longest_consec3
+    assert longest_consec3(*test_input) == test_output
