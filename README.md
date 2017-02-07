@@ -9,6 +9,7 @@ Level/Kyu | Name | URL
 5 | Consecutive strings | https://www.codewars.com/kata/consecutive-strings
 5 | Phone Directory | https://www.codewars.com/kata/phone-directory/
 5 | Rot13 | https://www.codewars.com/kata/530e15517bc88ac656000716
+5 | Tree-to-list | https://www.codewars.com/kata/tree-to-list
 6 | Binary to Text (ASCII) Conversion | https://www.codewars.com/kata/binary-to-text-ascii-conversion
 6 | Custom array filters | https://www.codewars.com/kata/custom-array-filters
 6 | Equal sides of an array (list) | https://www.codewars.com/kata/5679aa472b8f57fb8c000047
