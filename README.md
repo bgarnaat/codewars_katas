@@ -7,6 +7,7 @@ Level/Kyu | Name | URL
 :--------:|------|----
 4 | Base Conversion | https://www.codewars.com/kata/base-conversion
 5 | Consecutive strings | https://www.codewars.com/kata/consecutive-strings
+5 | Maximum subarray sum | https://www.codewars.com/kata/maximum-subarray-sum
 5 | Phone Directory | https://www.codewars.com/kata/phone-directory/
 5 | Rot13 | https://www.codewars.com/kata/530e15517bc88ac656000716
 5 | Tree-to-list | https://www.codewars.com/kata/tree-to-list
