@@ -7,6 +7,7 @@ Level/Kyu | Name | URL
 :--------:|------|----
 4 | Base Conversion | https://www.codewars.com/kata/base-conversion
 4 | Strings Mix | https://www.codewars.com/kata/strings-mix
+5 | ASCII hex converter | https://www.codewars.com/kata/ascii-hex-converter
 5 | Consecutive strings | https://www.codewars.com/kata/consecutive-strings
 5 | Maximum subarray sum | https://www.codewars.com/kata/maximum-subarray-sum
 5 | Phone Directory | https://www.codewars.com/kata/phone-directory/
