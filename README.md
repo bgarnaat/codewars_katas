@@ -15,6 +15,7 @@ Level/Kyu | Name | URL
 5 | Tree-to-list | https://www.codewars.com/kata/tree-to-list
 6 | Binary to Text (ASCII) Conversion | https://www.codewars.com/kata/binary-to-text-ascii-conversion
 6 | Custom array filters | https://www.codewars.com/kata/custom-array-filters
+6 | Dubstep | https://www.codewars.com/kata/dubstep
 6 | Equal sides of an array (list) | https://www.codewars.com/kata/5679aa472b8f57fb8c000047
 6 | File Path Operations | http://www.codewars.com/kata/file-path-operations
 6 | Lambdas as a mechanism for Open/Closed | https://www.codewars.com/kata/lambdas-as-a-mechanism-for-open-slash-closed/
