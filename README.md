@@ -22,7 +22,7 @@ Level/Kyu | Name
 6 | [Help the bookseller!](https://www.codewars.com/kata/help-the-bookseller)
 6 | [Number pyramid](https://www.codewars.com/kata/5575ff8c4d9c98bc96000042)
 6 | [Sort the odd](https://www.codewars.com/kata/sort-the-odd)
-6 | [The Supermarket Queue](ttps://www.codewars.com/kata/the-supermarket-queue/)
+6 | [The Supermarket Queue](https://www.codewars.com/kata/the-supermarket-queue/)
 6 | [worda10n](https://www.codewars.com/kata/word-a10n-abbreviation)
 7 | [Formnat to the 2nd](https://www.codewars.com/kata/format-to-the-2nd/)
 7 | [Money,Money,Money](https://www.codewars.com/kata/563f037412e5ada593000114/)
