@@ -36,4 +36,5 @@ Level/Kyu | Name | URL
 
 Level/Kyu | Name | URL
 :--------:|------|----
+8 | SQL Basics: Simple WHERE and ORDER BY | https://www.codewars.com/kata/sql-basics-simple-where-and-order-by
 8 | SQL Grasshopper: Select Columns | http://www.codewars.com/kata/sql-grasshopper-select-columns
