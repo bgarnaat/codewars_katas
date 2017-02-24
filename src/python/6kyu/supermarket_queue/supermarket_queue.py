@@ -49,3 +49,15 @@ def queue_time(customers, n):
         sum += tills[-1]
         tills = [x - tills[-1] for x in tills if x - tills[-1] > 0]
     return sum
+
+
+"""
+BEST ANSWER:
+
+
+def queue_time(customers, n):
+    l=[0]*n
+    for i in customers:
+        l[l.index(min(l))]+=i
+    return max(l)
+"""
