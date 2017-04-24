@@ -13,6 +13,7 @@ Level/Kyu | Name
 5 | [Phone Directory](https://www.codewars.com/kata/phone-directory/)
 5 | [Prefill an array](https://www.codewars.com/kata/prefill-an-array)
 5 | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
+5 | [Simple Fun #155: Pac-Man](https://www.codewars.com/kata/simple-fun-number-155-pac-man/python)
 5 | [Tree-to-list](https://www.codewars.com/kata/tree-to-list)
 6 | [Binary to Text (ASCII) Conversion](https://www.codewars.com/kata/binary-to-text-ascii-conversion)
 6 | [Custom array filters](https://www.codewars.com/kata/custom-array-filters)
