@@ -26,6 +26,7 @@ Level/Kyu | Name
 6 | [Sort the odd](https://www.codewars.com/kata/sort-the-odd)
 6 | [The Supermarket Queue](https://www.codewars.com/kata/the-supermarket-queue/)
 6 | [worda10n](https://www.codewars.com/kata/word-a10n-abbreviation)
+6 | [Your order, please](https://www.codewars.com/kata/your-order-please)
 7 | [Formnat to the 2nd](https://www.codewars.com/kata/format-to-the-2nd/)
 7 | [Money,Money,Money](https://www.codewars.com/kata/563f037412e5ada593000114/)
 7 | [Parts of a list](http://www.codewars.com/kata/parts-of-a-list)
