@@ -21,6 +21,7 @@ Level/Kyu | Name
 6 | [Dubstep](https://www.codewars.com/kata/dubstep)
 6 | [Equal sides of an array (list)](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 6 | [File Path Operations](http://www.codewars.com/kata/file-path-operations)
+6 | [Find the Parity Outlier](http://www.codewars.com/kata/find-the-parity-outlier)
 6 | [Lambdas as a mechanism for Open/Closed](https://www.codewars.com/kata/lambdas-as-a-mechanism-for-open-slash-closed/)
 6 | [Help the bookseller!](https://www.codewars.com/kata/help-the-bookseller)
 6 | [Number pyramid](https://www.codewars.com/kata/5575ff8c4d9c98bc96000042)
