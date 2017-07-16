@@ -26,6 +26,7 @@ Level/Kyu | Name
 6 | [Help the bookseller!](https://www.codewars.com/kata/help-the-bookseller)
 6 | [Number pyramid](https://www.codewars.com/kata/5575ff8c4d9c98bc96000042)
 6 | [Sort the odd](https://www.codewars.com/kata/sort-the-odd)
+6 | [String average](http://www.codewars.com/kata/string-average)
 6 | [The Supermarket Queue](https://www.codewars.com/kata/the-supermarket-queue/)
 6 | [worda10n](https://www.codewars.com/kata/word-a10n-abbreviation)
 6 | [Your order, please](https://www.codewars.com/kata/your-order-please)
