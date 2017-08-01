@@ -39,6 +39,13 @@ Level/Kyu | Name
 8 | [last](https://www.codewars.com/kata/last/)
 
 
+
+## Java
+Level/Kyu | Name
+:--------:|-----
+6 | [Clocky Mc Clock-Face](https://www.codewars.com/kata/clocky-mc-clock-face)
+
+
 ## SQL
 
 Level/Kyu | Name
