@@ -16,6 +16,7 @@ Level/Kyu | Name
 5 | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
 5 | [Simple Fun #155: Pac-Man](https://www.codewars.com/kata/simple-fun-number-155-pac-man/python)
 5 | [Tree-to-list](https://www.codewars.com/kata/tree-to-list)
+6 | [Arrays and hex color codes](https://www.codewars.com/kata/arrays-and-hex-color-codes)
 6 | [Binary to Text (ASCII) Conversion](https://www.codewars.com/kata/binary-to-text-ascii-conversion)
 6 | [Custom array filters](https://www.codewars.com/kata/custom-array-filters)
 6 | [Dubstep](https://www.codewars.com/kata/dubstep)
