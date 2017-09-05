@@ -29,6 +29,7 @@ Level/Kyu | Name
 6 | [Lambdas as a mechanism for Open/Closed](https://www.codewars.com/kata/lambdas-as-a-mechanism-for-open-slash-closed/)
 6 | [Help the bookseller!](https://www.codewars.com/kata/help-the-bookseller)
 6 | [Number pyramid](https://www.codewars.com/kata/5575ff8c4d9c98bc96000042)
+6 | [Reversed Words](https://www.codewars.com/kata/reversed-words)
 6 | [Sort the odd](https://www.codewars.com/kata/sort-the-odd)
 6 | [String average](http://www.codewars.com/kata/string-average)
 6 | [The Supermarket Queue](https://www.codewars.com/kata/the-supermarket-queue/)
