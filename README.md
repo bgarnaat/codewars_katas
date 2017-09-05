@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bgarnaat/codewars_katas.svg?branch=travis)](https://travis-ci.org/bgarnaat/codewars_katas)
+
 # Codewars Katas
 Collection of code katas completed on codewars.
 

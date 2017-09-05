@@ -27,7 +27,7 @@ TEST_LIST = [
 ]
 
 
-@pytest.mark.paramtrize("test_input, test_output", TEST_LIST)
-def test_find_even_index(test_input, test_out):
+@pytest.mark.parametrize("test_input, test_output", TEST_LIST)
+def test_find_even_index(test_input, test_output):
     from equal_sides_of_array import find_even_index
-    assert find_even_index(test_input) == test_input
+    assert find_even_index(test_input) == test_output
