@@ -19,30 +19,30 @@ Your mission is to implement the functionmystery, where the argument may have up
 
 Hint: If you don't know the name of mystery, remember there is information in passing as well as failing a test.
 """
+import math
 
 
 def mystery(n):
     if n == 0:
         return 0
     t = ['0', '1']
-    for _ in range(n // 2  - 1):
-        # u = ['0' + x for x in t]
-        # v = ['1' + x for x in t[::-1]]
-        # t = u + v
+    for _ in range(int(math.log(n, 2))):
         t = ['0' + x for x in t] + ['1' + x for x in t[::-1]]
+        # print('n: ', n, 'n / 2: ', n/2, 'iteration: ', _)
+    # print('_', _, 'len(t): ', len(t), 'logic: ', n - 2**(_+2))
     return int(t[n], 2)
 
 
 def mystery_inv(n):
     num_bin = bin(n)[2:]
     t = ['0', '1']
-    while num_bin not in t:
+    while num_bin not in t and len(t) < n * 2:
         t = ['0' + x for x in t] + ['1' + x for x in t[::-1]]
     return t.index(num_bin)
 
 
 def name_of_mystery():
-    pass
+    return "words"
 
 
 """
