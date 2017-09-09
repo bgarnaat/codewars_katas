@@ -23,26 +23,38 @@ import math
 
 
 def mystery(n):
-    if n == 0:
+    if not n:
         return 0
-    t = ['0', '1']
-    for _ in range(int(math.log(n, 2))):
-        t = ['0' + x for x in t] + ['1' + x for x in t[::-1]]
-        # print('n: ', n, 'n / 2: ', n/2, 'iteration: ', _)
-    # print('_', _, 'len(t): ', len(t), 'logic: ', n - 2**(_+2))
-    return int(t[n], 2)
+    output = ''
+    idx = n
+    bits = (int(math.log(n, 2)) + 1)
+
+    for i in range(bits, 0, -1):
+        if idx < 0.5 * 2 ** i:
+            output += '0'
+        else:
+            output += '1'
+            idx = 2 ** i - 1 - idx
+    return int(output, 2)
 
 
 def mystery_inv(n):
-    num_bin = bin(n)[2:]
-    t = ['0', '1']
-    while num_bin not in t and len(t) < n * 2:
-        t = ['0' + x for x in t] + ['1' + x for x in t[::-1]]
-    return t.index(num_bin)
+    binary_number = bin(n)[2:]
+    bits = len(binary_number)
+    idx = 0
+    add_flag = False
+
+    for i in range(bits):
+        if binary_number[0] is '1':  # memory location comparison is faster than casting to int.  e.g. if int(binary_number[0])
+            add_flag = not add_flag
+        if add_flag:
+            idx += int(0.5 * 2 ** (bits - i))
+        binary_number = binary_number[1:]
+    return idx
 
 
 def name_of_mystery():
-    return "words"
+    return "Gray code"
 
 
 """

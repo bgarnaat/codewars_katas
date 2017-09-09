@@ -16,16 +16,41 @@ import pytest
 
 
 MYSTERY_TEST_CASES = [
+    (0, 0),
+    (1, 1),
+    (2, 3),
+    (3, 2),
+    (4, 6),
+    (5, 7),
     (6, 5),
+    (7, 4),
     (9, 13),
     (19, 26),
+    (63, 32),
+    (255, 128),
 ]
 
 MYSTERY_INV_TEST_CASES = [
+    (0, 0),
+    (1, 1),
+    (2, 3),
+    (3, 2),
+    (4, 7),
     (5, 6),
+    (6, 4),
+    (7, 5),
     (13, 9),
     (26, 19),
+    (32, 63),
+    (128, 255),
 ]
+
+
+# tests for mystery
+# test.assert_equals(mystery(6), 0, "mystery(6) ")
+
+# tests for mystery_inv
+
 
 
 @pytest.mark.parametrize('test_input, test_output', MYSTERY_TEST_CASES)
