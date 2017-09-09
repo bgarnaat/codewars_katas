@@ -8,6 +8,7 @@ Collection of code katas completed on codewars.
 Level/Kyu | Name
 :--------:|-----
 4 | [Base Conversion](https://www.codewars.com/kata/base-conversion)
+4 | [Mystery Function](https://www.codewars.com/kata/mystery-function)
 4 | [Design a Simple Automaton (Finite State Machine)](https://www.codewars.com/kata/design-a-simple-automaton-finite-state-machine)
 4 | [Reverse polish notation calculator](https://www.codewars.com/kata/reverse-polish-notation-calculator)
 4 | [Strings Mix](https://www.codewars.com/kata/strings-mix)
