@@ -15,6 +15,7 @@ Level/Kyu | Name
 5 | [ASCII hex converter](https://www.codewars.com/kata/ascii-hex-converter)
 5 | [Basic DeNico](https://www.codewars.com/kata/basic-denico/)
 5 | [Consecutive strings](https://www.codewars.com/kata/consecutive-strings)
+5 | [Last digit of a large number](http://www.codewars.com/kata/last-digit-of-a-large-number/)
 5 | [Maximum subarray sum](https://www.codewars.com/kata/maximum-subarray-sum)
 5 | [Phone Directory](https://www.codewars.com/kata/phone-directory/)
 5 | [Prefill an array](https://www.codewars.com/kata/prefill-an-array)
