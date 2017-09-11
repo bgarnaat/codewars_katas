@@ -7,6 +7,7 @@ Collection of code katas completed on codewars.
 
 Level/Kyu | Name
 :--------:|-----
+3 | [Last digit of a huge number](https://www.codewars.com/kata/last-digit-of-a-huge-number)
 4 | [Base Conversion](https://www.codewars.com/kata/base-conversion)
 4 | [Mystery Function](https://www.codewars.com/kata/mystery-function)
 4 | [Design a Simple Automaton (Finite State Machine)](https://www.codewars.com/kata/design-a-simple-automaton-finite-state-machine)
